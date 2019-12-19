@@ -1,0 +1,98 @@
+{
+    "name": "Affiliate Window",
+    "description": "Join our global affiliate network to connect with consumers worldwide and earn commission from online content.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/318-affiliate-window.jpg",
+    "tags": [
+        "affiliates",
+        "api provider",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/affiliate-window\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Affiliate Window",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/318-affiliate-window.jpg",
+            "humanURL": "http:\/\/www.affiliatewindow.com\/us\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/affiliate-window-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.affiliatewindow.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.affiliatewindow.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/affiliate-window"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/zanox"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/wiki.awin.com\/index.php\/Publisher_API"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/wiki.awin.com\/index.php\/Publisher_API"
+        },
+        {
+            "type": "Email",
+            "url": "service@affiliatewindow.com"
+        },
+        {
+            "type": "Email",
+            "url": "us-inquiries@awin.com"
+        },
+        {
+            "type": "Email",
+            "url": "us-newbusiness@awin.com"
+        },
+        {
+            "type": "Email",
+            "url": "globalnewbusiness@awin.com"
+        },
+        {
+            "type": "Email",
+            "url": "us-marketing@awin.com"
+        },
+        {
+            "type": "Email",
+            "url": "us-publishermanagement@awin.com"
+        },
+        {
+            "type": "Email",
+            "url": "us-advertisermanagement@awin.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Awin_US"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/affwin"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.affiliatewindow.com\/us\/"
+        }
+    ]
+}
